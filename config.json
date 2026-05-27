@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdetch",
+        "uuid": 13455050,
+        "checksum": "ne38y"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
